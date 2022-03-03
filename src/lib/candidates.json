@@ -1,0 +1,93 @@
+[
+    {
+        "_id": 1,
+        "name": "Christine ",
+        "logo": "p1.jpg",
+        "votes":0,
+        "type": "President"
+    },
+    {
+        "_id": 2,
+        "name": "Paul",
+        "logo": "p2.jpg",
+        "votes":0,
+        "type": "President"
+    },
+    {
+        "_id": 3,
+        "name": "Mark",
+        "logo": "p4.jpg",
+        "votes":0,
+        "type": "President"
+    },
+    {
+        "_id": 4,
+        "name": "Jennifer",
+        "logo": "vp1.jpg",
+        "votes":0,
+        "type": "Vice-President"
+    },
+    {
+        "_id": 5,
+        "name": "Martin",
+        "logo": "vp2.jpg",
+        "votes":0,
+        "type": "Vice-President"
+    },
+    {
+        "_id": 6,
+        "name": "Mohammed",
+        "logo": "sec1.jpg",
+        "votes":0,
+        "type": "University secretary general"
+    },
+    {
+        "_id": 7,
+        "name": "Peabo",
+        "logo": "sec2.jpg",
+        "votes":0,
+        "type": "University secretary general"
+    },
+    {
+        "_id": 8,
+        "name": "Omari",
+        "logo": "sec3.jpg",
+        "votes":0,
+        "type": "University secretary general"
+    },
+    {
+        "_id": 9,
+        "name": "Everlyn",
+        "logo": "gs1.jpg",
+        "votes":0,
+        "type": "Deputy secretary general"
+    },
+    {
+        "_id": 10,
+        "name": "Lisa",
+        "logo": "t1.jpg",
+        "votes":0,
+        "type": "University council treasurer"
+    },
+    {
+        "_id": 11,
+        "name": "Emanuella",
+        "logo": "t2.jpg",
+        "votes":0,
+        "type": "University council treasurer"
+    },
+    {
+        "_id": 12,
+        "name": "Terry",
+        "logo": "sp1.png",
+        "votes":0,
+        "type": "Student council spokesperson"
+    },
+    {
+        "_id": 11,
+        "name": "James",
+        "logo": "sp3.jpg",
+        "votes":0,
+        "type": "Student council spokesperson"
+    }
+]
