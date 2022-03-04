@@ -1,92 +1,127 @@
 [
     {
         "_id": 1,
-        "name": "Christine ",
+        "name": "Christine Anabel ",
         "logo": "p1.jpg",
         "votes":0,
         "type": "President"
     },
     {
         "_id": 2,
-        "name": "Paul",
+        "name": "Paul Mwite",
         "logo": "p2.jpg",
         "votes":0,
         "type": "President"
     },
     {
         "_id": 3,
-        "name": "Mark",
+        "name": "Mark Zelan",
         "logo": "p4.jpg",
         "votes":0,
         "type": "President"
     },
     {
         "_id": 4,
-        "name": "Jennifer",
+        "name": "Jennifer Msupa",
         "logo": "vp1.jpg",
         "votes":0,
         "type": "Vice-President"
     },
     {
         "_id": 5,
-        "name": "Martin",
+        "name": "Martin Walibora",
         "logo": "vp2.jpg",
         "votes":0,
         "type": "Vice-President"
     },
     {
         "_id": 6,
-        "name": "Mohammed",
+        "name": "Mtemi Bokono",
+        "logo": "vp3.jfif",
+        "votes":0,
+        "type": "Vice-President"
+    },
+    {
+        "_id": 7,
+        "name": "Mohammed Ali",
         "logo": "sec1.jpg",
         "votes":0,
         "type": "University secretary general"
     },
     {
-        "_id": 7,
-        "name": "Peabo",
+        "_id": 8,
+        "name": "Peabo Pablo",
         "logo": "sec2.jpg",
         "votes":0,
         "type": "University secretary general"
     },
     {
-        "_id": 8,
-        "name": "Omari",
+        "_id": 9,
+        "name": "Omari Mali",
         "logo": "sec3.jpg",
         "votes":0,
         "type": "University secretary general"
     },
     {
-        "_id": 9,
-        "name": "Everlyn",
+        "_id": 10,
+        "name": "Rehana Kumar",
         "logo": "gs1.jpg",
         "votes":0,
         "type": "Deputy secretary general"
     },
     {
-        "_id": 10,
-        "name": "Lisa",
+        "_id": 11,
+        "name": "Everlyn White",
+        "logo": "gs2.jfif",
+        "votes":0,
+        "type": "Deputy secretary general"
+    },
+    {
+        "_id": 12,
+        "name": "Kevin Brian",
+        "logo": "gs3.jpg",
+        "votes":0,
+        "type": "Deputy secretary general"
+    },
+    {
+        "_id": 13,
+        "name": "Lisa Whitney",
         "logo": "t1.jpg",
         "votes":0,
         "type": "University council treasurer"
     },
     {
-        "_id": 11,
-        "name": "Emanuella",
+        "_id": 14,
+        "name": "Yusuf Hassan",
+        "logo": "uc1.jfif",
+        "votes":0,
+        "type": "University council treasurer"
+    },
+    {
+        "_id": 15,
+        "name": "Emanuella Edo",
         "logo": "t2.jpg",
         "votes":0,
         "type": "University council treasurer"
     },
     {
-        "_id": 12,
-        "name": "Terry",
+        "_id": 16,
+        "name": "Terry Merry",
         "logo": "sp1.png",
         "votes":0,
         "type": "Student council spokesperson"
     },
     {
-        "_id": 11,
-        "name": "James",
+        "_id": 17,
+        "name": "James Bond",
         "logo": "sp3.jpg",
+        "votes":0,
+        "type": "Student council spokesperson"
+    },
+    {
+        "_id": 18,
+        "name": "Shamal Patel",
+        "logo": "cs.jfif",
         "votes":0,
         "type": "Student council spokesperson"
     }

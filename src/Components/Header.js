@@ -8,10 +8,12 @@ import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
 import MenuIcon from "@mui/icons-material/Menu";
+import { List, ListItem } from "@mui/material";
+import { Link } from "react-router-dom";
 
 export default function Header() {
 return (
-	<AppBar position="static" style={{backgroundColor:"#198754"}}>
+	<AppBar position="fixed" style={{backgroundColor:"#198754"}}>
 		<Toolbar>
 		{/*Inside the IconButton, we
 		can render various icons*/}
@@ -32,7 +34,12 @@ return (
 		<Typography variant="h6"
 			component="div" sx={{ flexGrow: 1 }}>
 			ABC University
+
+			<Link to='/' style={{textDecoration:'none', color:'inherit'}}><Button color="inherit" sx={{marginLeft:5}}>Home</Button></Link>
+		<Link to='/vote'  style={{textDecoration:'none', color:'inherit'}}><Button color="inherit">Voting Portal</Button></Link>
 		</Typography>
+		
+		
 		<Button color="inherit">Login</Button>
 		</Toolbar>
 	</AppBar>
